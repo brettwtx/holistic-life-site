@@ -1,10 +1,19 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0">
+<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
   <channel>
     <title>Holistic Life: Small Space Home Gym Ideas</title>
     <link>https://holisticlifedaily.com</link>
     <description>Small Space Home Gym Ideas guides from Holistic Life.</description>
     <language>en-us</language>
     <lastBuildDate>Tue, 17 Nov 2026 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Small Space Home Gym: What to Buy First, in the Right Order</title>
+      <description>Building a small space home gym? Start with a mat, then bands, then adjustable dumbbells, and add a kettlebell or bench only when you are ready. A simple buying order for apartments, with what to look for. Guide contains affiliate links.</description>
+      <link>https://holisticlifedaily.com/guides/small-space-home-gym-starter-kit/?pin=small-space-home-gym-starter-kit-1</link>
+      <guid isPermaLink="false">small-space-home-gym-starter-kit-1</guid>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://holisticlifedaily.com/pins/small-space-home-gym-starter-kit-1.jpg" type="image/jpeg" length="170944" />
+      <media:content url="https://holisticlifedaily.com/pins/small-space-home-gym-starter-kit-1.jpg" type="image/jpeg" medium="image" width="1000" height="1500" />
+    </item>
   </channel>
 </rss>

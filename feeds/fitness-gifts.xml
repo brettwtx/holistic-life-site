@@ -1,10 +1,19 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0">
+<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
   <channel>
     <title>Holistic Life: Fitness and Wellness Gift Ideas</title>
     <link>https://holisticlifedaily.com</link>
     <description>Fitness and Wellness Gift Ideas guides from Holistic Life.</description>
     <language>en-us</language>
     <lastBuildDate>Tue, 17 Nov 2026 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Fitness Stocking Stuffers: 12 Small Gifts for People Who Work Out</title>
+      <description>Fitness stocking stuffers that are small enough for a stocking and useful enough to use. Twelve ideas from a nurse-run site, from loop bands and a jump rope to a cooling towel, with notes on what to look for. Guide contains affiliate links.</description>
+      <link>https://holisticlifedaily.com/guides/fitness-stocking-stuffers/?pin=fitness-stocking-stuffers-1</link>
+      <guid isPermaLink="false">fitness-stocking-stuffers-1</guid>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://holisticlifedaily.com/pins/fitness-stocking-stuffers-1.jpg" type="image/jpeg" length="159503" />
+      <media:content url="https://holisticlifedaily.com/pins/fitness-stocking-stuffers-1.jpg" type="image/jpeg" medium="image" width="1000" height="1500" />
+    </item>
   </channel>
 </rss>
