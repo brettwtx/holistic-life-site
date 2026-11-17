@@ -139,6 +139,11 @@ main>:last-child:not(.follow){margin-bottom:4rem}
 .guide-body .checks{padding:0}
 .checks li{position:relative;margin:.45rem 0;padding-left:1.75rem;font-size:.97rem;line-height:1.5}
 .checks li::before{content:"";position:absolute;left:.4rem;top:.26em;width:.4em;height:.8em;border:solid var(--forest);border-width:0 2.5px 2.5px 0;transform:rotate(45deg)}
+.guide-body .pick-products{list-style:none;margin:0 0 .3rem;padding:0}
+.pick-products li{margin:0;padding:.6rem 0;border-top:1px solid var(--line);font-size:.97rem;line-height:1.45}
+.pick-products li:last-child{border-bottom:1px solid var(--line)}
+.pick-products a{display:block;font-weight:600}
+.pick-note{color:var(--moss)}
 .guide-body .pick-cta{display:flex;flex-wrap:wrap;align-items:center;gap:.5rem .8rem;margin:1.25rem 0 0}
 .pick-cta .btn{flex:1 1 100%}
 .paid{font-size:.8rem;color:var(--moss)}
