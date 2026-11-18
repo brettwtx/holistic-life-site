@@ -1,10 +1,19 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0">
+<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
   <channel>
     <title>Holistic Life: Gifts for Nurses and Healthcare Workers</title>
     <link>https://holisticlifedaily.com</link>
     <description>Gifts for Nurses and Healthcare Workers guides from Holistic Life.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 17 Nov 2026 23:42:57 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 10:36:51 +0000</lastBuildDate>
+    <item>
+      <title>Gifts for Nurses That Actually Get Used: 12 Practical Ideas</title>
+      <description>Gifts for nurses that get used every shift: compression socks, a leakproof bottle, a fob watch, sleep helpers for night shift and more. Twelve practical ideas from a nurse-run site, with what to look for in each one. Guide contains affiliate links.</description>
+      <link>https://holisticlifedaily.com/guides/gifts-for-nurses/?pin=gifts-for-nurses-1</link>
+      <guid isPermaLink="false">gifts-for-nurses-1</guid>
+      <pubDate>Wed, 18 Nov 2026 10:36:51 +0000</pubDate>
+      <enclosure url="https://holisticlifedaily.com/pins/gifts-for-nurses-1.jpg" type="image/jpeg" length="219817" />
+      <media:content url="https://holisticlifedaily.com/pins/gifts-for-nurses-1.jpg" type="image/jpeg" medium="image" width="1000" height="1500" />
+    </item>
   </channel>
 </rss>

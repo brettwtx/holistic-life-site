@@ -1,10 +1,19 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0">
+<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
   <channel>
     <title>Holistic Life: Small Space Home Gym Ideas</title>
     <link>https://holisticlifedaily.com</link>
     <description>Small Space Home Gym Ideas guides from Holistic Life.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 17 Nov 2026 23:42:57 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 10:36:51 +0000</lastBuildDate>
+    <item>
+      <title>Small Home Gym Gifts: Gear That Folds, Stacks or Hangs</title>
+      <description>Small home gym gifts should fold, stack or hang on a wall. This guide covers how to check floors, noise and weight limits, and what to skip, so the gift gets used instead of stored. Guide contains affiliate links.</description>
+      <link>https://holisticlifedaily.com/guides/home-gym-gifts/?pin=home-gym-gifts-3</link>
+      <guid isPermaLink="false">home-gym-gifts-3</guid>
+      <pubDate>Wed, 18 Nov 2026 10:36:51 +0000</pubDate>
+      <enclosure url="https://holisticlifedaily.com/pins/home-gym-gifts-3.jpg" type="image/jpeg" length="331024" />
+      <media:content url="https://holisticlifedaily.com/pins/home-gym-gifts-3.jpg" type="image/jpeg" medium="image" width="1000" height="1500" />
+    </item>
   </channel>
 </rss>

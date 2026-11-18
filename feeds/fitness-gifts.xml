@@ -1,10 +1,19 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0">
+<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
   <channel>
     <title>Holistic Life: Fitness and Wellness Gift Ideas</title>
     <link>https://holisticlifedaily.com</link>
     <description>Fitness and Wellness Gift Ideas guides from Holistic Life.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 17 Nov 2026 23:42:57 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 10:36:51 +0000</lastBuildDate>
+    <item>
+      <title>Christmas Gifts for Women and Men Who Love to Walk: A Simple Checklist</title>
+      <description>Christmas gifts for women and men who love to walk, made simple: cushioned socks, clip-on lights, an insulated bottle, warm layers and more. A nurse-run checklist with what to look for in each one, so you buy something that gets used. Guide contains affiliate links.</description>
+      <link>https://holisticlifedaily.com/guides/gifts-for-walkers/?pin=gifts-for-walkers-1</link>
+      <guid isPermaLink="false">gifts-for-walkers-1</guid>
+      <pubDate>Wed, 18 Nov 2026 10:36:51 +0000</pubDate>
+      <enclosure url="https://holisticlifedaily.com/pins/gifts-for-walkers-1.jpg" type="image/jpeg" length="224993" />
+      <media:content url="https://holisticlifedaily.com/pins/gifts-for-walkers-1.jpg" type="image/jpeg" medium="image" width="1000" height="1500" />
+    </item>
   </channel>
 </rss>
