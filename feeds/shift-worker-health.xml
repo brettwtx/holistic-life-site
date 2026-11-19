@@ -1,10 +1,19 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0">
+<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
   <channel>
     <title>Holistic Life: Healthy Habits for Nurses and Shift Workers</title>
     <link>https://holisticlifedaily.com</link>
     <description>Healthy Habits for Nurses and Shift Workers guides from Holistic Life.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 18 Nov 2026 22:40:18 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 10:37:46 +0000</lastBuildDate>
+    <item>
+      <title>Sleep Tips for Night Shift Workers: Make Your Room Truly Dark by Day</title>
+      <description>Sleep tips for night shift workers start with a dark room. Hang blackout curtains, cover the gaps at the edges, block light under the door and add a sleep mask. A short guide for nurses and shift workers, with gear picks. Guide contains affiliate links.</description>
+      <link>https://holisticlifedaily.com/guides/night-shift-sleep-tips/?pin=night-shift-sleep-tips-1</link>
+      <guid isPermaLink="false">night-shift-sleep-tips-1</guid>
+      <pubDate>Thu, 19 Nov 2026 10:37:46 +0000</pubDate>
+      <enclosure url="https://holisticlifedaily.com/pins/night-shift-sleep-tips-1.jpg" type="image/jpeg" length="170445" />
+      <media:content url="https://holisticlifedaily.com/pins/night-shift-sleep-tips-1.jpg" type="image/jpeg" medium="image" width="1000" height="1500" />
+    </item>
   </channel>
 </rss>
