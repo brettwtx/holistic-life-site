@@ -1,10 +1,19 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0">
+<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
   <channel>
     <title>Holistic Life: High Protein Dinner Ideas</title>
     <link>https://holisticlifedaily.com</link>
     <description>High Protein Dinner Ideas guides from Holistic Life.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 19 Nov 2026 20:07:44 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 10:37:12 +0000</lastBuildDate>
+    <item>
+      <title>Easy High Protein Meals for Busy Weeknights: A 5-Night Dinner Plan</title>
+      <description>Easy high protein meals for busy weeknights, planned as five dinners. Chicken, turkey, salmon, eggs and beans are the stars, with swaps for what is in your kitchen. Short ingredient lists and quick steps. Guide contains affiliate links.</description>
+      <link>https://holisticlifedaily.com/guides/high-protein-dinners/?pin=high-protein-dinners-2</link>
+      <guid isPermaLink="false">high-protein-dinners-2</guid>
+      <pubDate>Fri, 20 Nov 2026 10:37:12 +0000</pubDate>
+      <enclosure url="https://holisticlifedaily.com/pins/high-protein-dinners-2.jpg" type="image/jpeg" length="277175" />
+      <media:content url="https://holisticlifedaily.com/pins/high-protein-dinners-2.jpg" type="image/jpeg" medium="image" width="1000" height="1500" />
+    </item>
   </channel>
 </rss>

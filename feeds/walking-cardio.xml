@@ -1,10 +1,19 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0">
+<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
   <channel>
     <title>Holistic Life: Outdoor Walking and Cardio Workouts</title>
     <link>https://holisticlifedaily.com</link>
     <description>Outdoor Walking and Cardio Workouts guides from Holistic Life.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 19 Nov 2026 20:07:44 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 10:37:12 +0000</lastBuildDate>
+    <item>
+      <title>Walking for Beginners: How Fast to Walk Using the Talk Test</title>
+      <description>Walking for beginners is easier when you know your pace. Use the talk test: you can talk but not sing. This guide explains it, then gives a 4 week walking workout plan with rest days and what to do when you miss one. Guide contains affiliate links.</description>
+      <link>https://holisticlifedaily.com/guides/beginner-walking-plan/?pin=beginner-walking-plan-2</link>
+      <guid isPermaLink="false">beginner-walking-plan-2</guid>
+      <pubDate>Fri, 20 Nov 2026 10:37:12 +0000</pubDate>
+      <enclosure url="https://holisticlifedaily.com/pins/beginner-walking-plan-2.jpg" type="image/jpeg" length="290441" />
+      <media:content url="https://holisticlifedaily.com/pins/beginner-walking-plan-2.jpg" type="image/jpeg" medium="image" width="1000" height="1500" />
+    </item>
   </channel>
 </rss>

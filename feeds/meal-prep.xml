@@ -1,10 +1,19 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0">
+<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
   <channel>
     <title>Holistic Life: Healthy Meal Prep for Busy Weeks</title>
     <link>https://holisticlifedaily.com</link>
     <description>Healthy Meal Prep for Busy Weeks guides from Holistic Life.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 19 Nov 2026 20:07:44 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 10:37:12 +0000</lastBuildDate>
+    <item>
+      <title>Gift Basket Ideas for Meal Preppers: Build a Packed Lunch Basket</title>
+      <description>Gift basket ideas for someone who packs lunch every day. Start with an insulated lunch bag, then add two locking containers, an ice pack and reusable cutlery. The guide has two more baskets to build and what to look for in each piece. Guide contains affiliate links.</description>
+      <link>https://holisticlifedaily.com/guides/meal-prep-gifts/?pin=meal-prep-gifts-5</link>
+      <guid isPermaLink="false">meal-prep-gifts-5</guid>
+      <pubDate>Fri, 20 Nov 2026 10:37:12 +0000</pubDate>
+      <enclosure url="https://holisticlifedaily.com/pins/meal-prep-gifts-5.jpg" type="image/jpeg" length="274201" />
+      <media:content url="https://holisticlifedaily.com/pins/meal-prep-gifts-5.jpg" type="image/jpeg" medium="image" width="1000" height="1500" />
+    </item>
   </channel>
 </rss>
